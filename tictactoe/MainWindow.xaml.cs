@@ -23,18 +23,7 @@ namespace tictactoe
         public bool xTurn;
         public List<Button> xListButton = new List<Button>();
         public List<Button> oListButton = new List<Button>();
-
-        //static private int[,] Winners = new int[,]
-        //       {
-        //        {0,1,2},
-        //        {3,4,5},
-        //        {6,7,8},
-        //        {0,3,6},
-        //        {1,4,7},
-        //        {2,5,8},
-        //        {0,4,8},
-        //        {2,4,6}
-        //       };
+                
 
         public MainWindow()
         {
